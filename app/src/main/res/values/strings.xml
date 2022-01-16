@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RickMorty</string>
+    <string name="network_unavail">Network not available error.</string>
+    <string name="error_fetching_characters">Error while fetching the characters.</string>
+    <string name="error_fetching_location">Error while fetching the location.</string>
+    <string name="character_status_species">Status: %1$s , Species: %2$s</string>
+</resources>
